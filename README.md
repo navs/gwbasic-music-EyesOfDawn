@@ -29,7 +29,15 @@ Eyes of Dawn (MBC Drama 1992) Theme music GW-BASIC code
 ## Download MP3
 
 - [Download eyes-of-dawn-gwbasic.mp3](/audio/eyes-of-dawn-gwbasic.mp3)
+
+    <audio controls="controls">
+    <source type="audio/mp3" src="/audio/eyes-of-dawn-gwbasic.mp3"></source>
+    <p>Your browser does not support the audio element.</p>
+    </audio>
+
 - [Youtube](https://www.youtube.com/watch?v=UG2nP4_DY30)
+
+    [![Youtube](https://img.youtube.com/vi/UG2nP4_DY30/0.jpg)](https://www.youtube.com/watch?v=UG2nP4_DY30)
 
 ## Links
 
